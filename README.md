@@ -7,7 +7,10 @@ Kelompok 5 A2 2020:
 
 <br><br><h1><b>Rangkaian untuk Mengatur Kecerahan Lampu dan Tone / Nada Buzzer</b></h1><br>
 
-<b>Ketentuan Rangkaian :</b>
+<b>Deskripsi :</b>
+<p>Perangkat ini menghasilkan output berupa LED dan buzzer yang bisa di on/off kan serta bisa dikontrol kecerahan dan frekuensi/tone melalui button dan juga webserver yang menggunakan NodeMCU dengan mode Wi-Fi_AP. Untuk kecerahan LED menggunakan kelipatan 5 dari range 0-250 kemudian untuk frekuensi Buzzer menggunakan kelipatan 5 dengan range 100-2500.</p>
+
+<br><b>Ketentuan Rangkaian :</b>
 1. Kecerahan lampu bisa ditambahkan/dikurangi dengan kelipatan 5 (ex: 0, 5, 10, ..., 250, range 0-250)
 2. Tone / nada Buzzer bisa ditambahkan/dikurangi dengan kelipatan 5 (ex: 105, 110, 115, ..., 2500, range 100-2500)
 3. Setiap board terdapat 2 button untuk menambah dan mengurangi value komponen
