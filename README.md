@@ -3,7 +3,7 @@
 Kelompok 5 A2 2020:
 - 2009106011 Ega Sulfika 
 - 2009106028 Mitha Amalia 
-- 2009106032 Alan Nuzulan <br><br><br>
+- 2009106032 Alan Nuzulan <br>
 
 <br><br><h1><b>Rangkaian untuk Mengatur Kecerahan Lampu dan Tone / Nada Buzzer</b></h1><br>
 
@@ -13,7 +13,7 @@ Kelompok 5 A2 2020:
 3. Setiap board terdapat 2 button untuk menambah dan mengurangi value komponen
 4. Setiap board terdapat 1 button untuk enable/disable komponen
 5. WEBSERVER untuk monitor value Komponen
-6. NodeMC connect ke Wi-Fi ( mode WIFI_AP)
+6. NodeMC connect ke Wi-Fi dengan mode WIFI_AP
 
 
 <br><b>Komponen yang Digunakan :</b>
