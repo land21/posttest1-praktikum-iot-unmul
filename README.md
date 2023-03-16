@@ -5,7 +5,7 @@ Kelompok 5 A2 2020:
 - 2009106028 Mitha Amalia 
 - 2009106032 Alan Nuzulan <br><br><br>
 
-<br><br><br><h1><b>Rangkaian untuk Mengatur Kecerahan Lampu dan Tone / Nada Buzzer</b></h1><br>
+<br><br><h1><b>Rangkaian untuk Mengatur Kecerahan Lampu dan Tone / Nada Buzzer</b></h1><br>
 
 <b>Ketentuan Rangkaian :</b>
 1. Kecerahan lampu bisa ditambahkan/dikurangi dengan kelipatan 5 (ex: 0, 5, 10, ..., 250, range 0-250)
@@ -16,7 +16,7 @@ Kelompok 5 A2 2020:
 6. NodeMC connect ke Wi-Fi ( mode WIFI_AP)
 
 
-<b>Komponen yang Digunakan :</b>
+<br><b>Komponen yang Digunakan :</b>
 1. Kabel Jumper
 2. LED
 3. Buzzer
@@ -27,16 +27,16 @@ Kelompok 5 A2 2020:
 8. Micro USB
 
 
-<b>Board Schematic :</b>
+<br><b>Board Schematic :</b>
 
-1. Design Schematic
+1. Design Schematic<br>
 ![posttest1-iot-schematic](https://user-images.githubusercontent.com/69804370/225554040-4745bc57-6ada-4624-88df-feb79360e957.png)
 
-2. Our Schematic
+2. Our Schematic<br>
 ![Schematic](https://user-images.githubusercontent.com/69804370/225553745-ca9e076b-5590-4e67-8251-aeaab750d07b.jpg)
 
 
-LINK VIDEO : <a href="https://youtu.be/VSK7EAa8gAg">KELOMPOK 2 IOT A 2020</a>
+<br>LINK VIDEO : <a href="https://youtu.be/VSK7EAa8gAg">KELOMPOK 2 IOT A 2020</a>
 
 
-@2023
+<br><br><br>@2023
