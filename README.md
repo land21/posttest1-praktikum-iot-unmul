@@ -33,7 +33,7 @@ Kelompok 5 A2 2020:
 <br><b>Board Schematic :</b>
 
 1. Design Schematic<br>
-![posttest1-iot-schematic](https://user-images.githubusercontent.com/69804370/225554040-4745bc57-6ada-4624-88df-feb79360e957.png)
+![posttest1-iot-schematic](https://user-images.githubusercontent.com/69804370/225557475-140ccd38-9b5b-47eb-a8c7-7bd12a08a500.png)
 
 2. Our Schematic<br>
 ![Schematic](https://user-images.githubusercontent.com/69804370/225553745-ca9e076b-5590-4e67-8251-aeaab750d07b.jpg)
