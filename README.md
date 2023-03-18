@@ -18,6 +18,10 @@ Kelompok 5 A2 2020:
 5. WEBSERVER untuk monitor value Komponen
 6. NodeMC connect ke Wi-Fi dengan mode WIFI_AP
 
+<br><b>Pembagian Tugas :</b>
+1. Ega Sulfika = Pembuatan Rangkaian LED serta Mengatur konfigurasi WEBSERVER 
+2. Mitha Amalia = Pembuatan Rangkaian Buzzer serta mengatur konfigurasi button untuk menambah dan mengurangi kecerahan LED 
+3. Alan Nuzulan = Mengatur konfigurasi button untuk menambah dan mengurangi Tone/Nada Buzzer serta mengatur konfigurasi enable/disable komponen LED ataupun Buzzer
 
 <br><b>Komponen yang Digunakan :</b>
 1. Kabel Jumper
