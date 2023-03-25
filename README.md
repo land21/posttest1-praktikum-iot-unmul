@@ -1,6 +1,6 @@
 # POSTTEST 1 - PRAKTIKUM - IOT - UNMUL
 
-Kelompok 5 A2 2020:
+Kelompok 2 A2 2020:
 - 2009106011 Ega Sulfika 
 - 2009106028 Mitha Amalia 
 - 2009106032 Alan Nuzulan <br>
